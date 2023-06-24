@@ -1,4 +1,4 @@
-#Checking pass or failed
+# Checking pass or failed
 mark= float(input("Enter your mark= "))
 
 if mark>=33:
