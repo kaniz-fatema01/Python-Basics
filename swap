@@ -1,0 +1,8 @@
+Kaniz = int(input("Kaniz: "))
+Fatema = int(input("Fatema: "))
+
+print(Kaniz, Fatema)
+
+Kaniz, Fatema = Fatema , Kaniz
+
+print(Kaniz, Fatema)
