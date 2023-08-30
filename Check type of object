@@ -1,0 +1,2 @@
+food = ['kathal', 'mango', '  cake']
+type(food)
